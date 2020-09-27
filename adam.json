@@ -1,0 +1,18 @@
+{
+  "version": "0.1.0",
+  "architecture": {
+    "32bit": {
+      "url": "https://github.com/NPC-Studio/adam/releases/download/v0.1.0/adam-0.1.0-i686-pc-windows-msvc.zip",
+      "bin": ["adam.exe"],
+      "hash": "D6F8F53C9BBC32BB782ED2F37F73208E83A63837A398C2EB92E14DB942A6C4CE"
+    },
+    "64bit": {
+      "url": "https://github.com/NPC-Studio/adam/releases/download/v0.1.0/adam-0.1.0-x86_64-pc-windows-msvc.zip",
+      "bin": ["adam.exe"],
+      "hash": "7A660A15ABA21786F5454A3476D60B7D962BEDAF3EA39880F6FCE7D68AAE2D7E"
+    }
+  },
+  "homepage": "https://github.com/NPC-Studio/adam",
+  "license": "MIT or APACHE 2.0",
+  "description": "A command-line interface for building Gms2 projects"
+}
