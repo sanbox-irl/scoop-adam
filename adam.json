@@ -4,12 +4,12 @@
     "32bit": {
       "url": "https://github.com/NPC-Studio/adam/releases/download/v0.1.0/adam-0.1.0-i686-pc-windows-msvc.zip",
       "bin": ["adam.exe"],
-      "hash": "D6F8F53C9BBC32BB782ED2F37F73208E83A63837A398C2EB92E14DB942A6C4CE"
+      "hash": "34E855B3C425492FAF7B3184D7EF128F34AF94F3A27B4C89A7C7A5A6CEE86C7B"
     },
     "64bit": {
       "url": "https://github.com/NPC-Studio/adam/releases/download/v0.1.0/adam-0.1.0-x86_64-pc-windows-msvc.zip",
       "bin": ["adam.exe"],
-      "hash": "7A660A15ABA21786F5454A3476D60B7D962BEDAF3EA39880F6FCE7D68AAE2D7E"
+      "hash": "FFCD74ED9B36834D184E19ED6E2617AC3F155E38E962104819731F1B2CB9B956"
     }
   },
   "homepage": "https://github.com/NPC-Studio/adam",
